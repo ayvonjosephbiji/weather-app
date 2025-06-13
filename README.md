@@ -21,7 +21,7 @@ Google Fonts - Typography (Poppins)
 📦 Installation & Setup
 
 Clone the repository
-bashgit clone https://github.com/yourusername/weather-app.git
+bashgit clone https://github.com/ayvonjosephbiji/weather-app
 cd weather-app
 
 Get OpenWeatherMap API Key
